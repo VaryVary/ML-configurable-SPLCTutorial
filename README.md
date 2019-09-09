@@ -37,12 +37,6 @@ Slides: see `slides` folder:
  * Practical session 2: performance prediction with x264 case (1145 => 1215, see `MLTutorialSPLC19-x264Exercice.pdf`) 
   * dataset from the literature  
   * we use Python and Jupyter notebooks 
-  * modules to install : 
-  ```
-  pip install scikit-learn
-  pip install jupyter
-  pip install graphviz
-  ```
  * Summary and open research directions (1215 => 1230, see `MLTutorialSPLC19-WrapUp.pdf`)
    * wrap-up 
    * open issues 
@@ -52,4 +46,11 @@ Slides: see `slides` folder:
 requirements: Jupyter, Python 3 with scikit-learn, pandas, and numpy 
 play with notebooks in `latex` (for VaryLaTeX exercice) and `x264` (for x264 exercice) 
 
+  ```
+  pip install pandas
+  pip install numpy
+  pip install scikit-learn
+  pip install jupyter
+  pip install graphviz
+  ```
 
