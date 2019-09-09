@@ -2,13 +2,20 @@
 
 ## Material 
 
-Slides: see google drive folder 
+Slides: see `slides` folder:
+ * MLTutorialSPLC19-VaryLaTeX.pdf 
+ * MLTutorialSPLC19-SLR.pdf
+ * MLTutorialSPLC19-VaryLaTeXExercice.pdf
+ * MLTutorialSPLC19-x264Exercice.pdf
+ * MLTutorialSPLC19-WrapUp.pdf
+ 
+## Plan 
 
- * Welcome and general motivation: Why machine learning is relevant for engineering software configurable systems? (0900 => 0905)
- * The VaryLaTeX case (demonstration) (0905 => 0930)
+ * Welcome and general motivation: Why machine learning is relevant for engineering software configurable systems? 
+ * The VaryLaTeX case (demonstration) 
   * https://github.com/FAMILIAR-project/varylatex/blob/master/src/test/java/VaryLatexTest.java#L122
-  * 
- * Overview: An overview of works in the field (0930 => 1020)
+  * see `MLTutorialSPLC19-VaryLaTeX.pdf`
+ * Overview: An overview of works in the field, see `MLTutorialSPLC19-SLR.pdf`
    * based on a systematic literature survey
    * we describe the different applications (pure prediction, optimization, specialization, understanding, etc.)
    * we review subject systems and application domains 
@@ -16,7 +23,7 @@ Slides: see google drive folder
    * we detail how configurations are measured 
    * we report on learning algorithms used and their assessment 
  * Setup instructions (1020 => 1030)
- * Practical session 1: learning-based specialization with VaryLaTeX case (1100 => 1145)
+ * Practical session 1: learning-based specialization with VaryLaTeX case (1100 => 1145, see `MLTutorialSPLC19-VaryLaTeXExercie.pdf`) 
   * information about VaryLaTeX: https://hal.inria.fr/hal-01659161/ https://github.com/FAMILIAR-project/varylatex
   * dataset: https://github.com/FAMILIAR-project/varylatex/blob/master/output-FSE/csvs/
   * decision tree algorithm and a focus on interpretability 
@@ -27,7 +34,7 @@ Slides: see google drive folder
     * change the training set size and analyze the effect on accuracy and rules
     * change some hyperparameters
     * change the algorithm (using random forest)
- * Practical session 2: performance prediction with x264 case (1145 => 1215)
+ * Practical session 2: performance prediction with x264 case (1145 => 1215, see `MLTutorialSPLC19-x264Exercice.pdf`) 
   * dataset from the literature  
   * we use Python and Jupyter notebooks 
   * modules to install : 
@@ -36,8 +43,13 @@ Slides: see google drive folder
   pip install jupyter
   pip install graphviz
   ```
- * Summary and open research directions (1215 => 1230)
+ * Summary and open research directions (1215 => 1230, see `MLTutorialSPLC19-WrapUp.pdf`)
    * wrap-up 
    * open issues 
+  
+ ## Instructions 
+ 
+requirements: Jupyter, Python 3 with scikit-learn, pandas, and numpy 
+play with notebooks in `latex` (for VaryLaTeX exercice) and `x264` (for x264 exercice) 
 
 
