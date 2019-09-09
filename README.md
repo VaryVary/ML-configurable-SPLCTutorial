@@ -30,6 +30,12 @@ Slides: see google drive folder
  * Practical session 2: performance prediction with x264 case (1145 => 1215)
   * dataset from the literature  
   * we use Python and Jupyter notebooks 
+  * modules to install : 
+  ```
+  pip install scikit-learn
+  pip install jupyter
+  pip install graphviz
+  ```
  * Summary and open research directions (1215 => 1230)
    * wrap-up 
    * open issues 
