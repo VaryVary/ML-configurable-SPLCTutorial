@@ -8,6 +8,8 @@ Slides: see `slides` folder:
  * MLTutorialSPLC19-VaryLaTeXExercice.pdf
  * MLTutorialSPLC19-x264Exercice.pdf
  * MLTutorialSPLC19-WrapUp.pdf
+ 
+## Plan 
 
  * Welcome and general motivation: Why machine learning is relevant for engineering software configurable systems? 
  * The VaryLaTeX case (demonstration) 
