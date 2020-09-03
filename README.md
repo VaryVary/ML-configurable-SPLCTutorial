@@ -54,3 +54,13 @@ play with notebooks in `latex` (for VaryLaTeX exercice) and `x264` (for x264 exe
   pip install graphviz
   ```
 
+****
+
+Docker alternative : 
+
+```
+docker build -t splc .
+```
+```
+docker run -p 8888:8888 splc
+```
