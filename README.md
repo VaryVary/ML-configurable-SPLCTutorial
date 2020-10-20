@@ -23,6 +23,13 @@ Slides: see `slides` folder:
 Jupyter notebook: see `latex` and `x264` folder:
 * The case of VaryLaTeX: Latex_specialization.ipynb
 * The case of x264: x264_performance_prediction.ipynb
+
+Videos:
+* https://www.youtube.com/watch?v=u1ralqbHCyM 
+* https://www.youtube.com/watch?v=0ePwyCCJyIM 
+* https://www.youtube.com/watch?v=msyrM1FJXs0
+* https://www.youtube.com/watch?v=eyNE_K3eCE8
+* https://www.youtube.com/watch?v=jtXoYdHhVtI
  
 ## Plan 
 
