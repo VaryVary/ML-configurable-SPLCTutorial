@@ -13,8 +13,9 @@ Slides: see `slides` folder:
 
  * Welcome and general motivation: Why machine learning is relevant for engineering software configurable systems? 
  * The VaryLaTeX case (demonstration) 
-  * https://github.com/FAMILIAR-project/varylatex/blob/master/src/test/java/VaryLatexTest.java#L122
-  * see `MLTutorialSPLC19-VaryLaTeX.pdf`
+  - https://github.com/diverse-project/varylatex 
+  - youtube videos: https://www.youtube.com/playlist?list=PLcDsXHkK7hJ3n9v7VAMbZCIV6egreI8OL
+  - see `MLTutorialSPLC19-VaryLaTeX.pdf`
  * Overview: An overview of works in the field, see `MLTutorialSPLC19-SLR.pdf`
    * based on a systematic literature survey
    * we describe the different applications (pure prediction, optimization, specialization, understanding, etc.)
