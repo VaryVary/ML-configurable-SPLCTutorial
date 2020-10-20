@@ -2,7 +2,7 @@
 
 ## Material 
 
-Slides: see `slides` folder in this order:
+Slides: see `slides` folder:
 
  (1) Background
  * MLTutorialSPLC20-SLR.pdf
@@ -19,7 +19,10 @@ Slides: see `slides` folder in this order:
  
  (4) Conclusion
  * MLTutorialSPLC20-WrapUp.pdf
- 
+
+Jupyter notebook: see `latex` and `x264` folder:
+* The case of VaryLaTeX: Latex_specialization.ipynb
+* The case of x264: x264_performance_prediction.ipynb
  
 ## Plan 
 
