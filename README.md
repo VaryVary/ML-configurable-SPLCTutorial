@@ -2,12 +2,20 @@
 
 ## Material 
 
-Slides: see `slides` folder:
+Slides: see `slides` folder in this order:
+ (1) Background
+ * MLTutorialSPLC20-SLR.pdf
+ * MLTutorialSPLC20-ML.pdf
+ * DT.pdf
+ (2) The case of VaryLaTeX
  * MLTutorialSPLC19-VaryLaTeX.pdf 
- * MLTutorialSPLC19-SLR.pdf
  * MLTutorialSPLC19-VaryLaTeXExercice.pdf
+ (3) The case of x264
+ * MLTutorialSPLC20-ICPE_Sampling.pdf
  * MLTutorialSPLC19-x264Exercice.pdf
- * MLTutorialSPLC19-WrapUp.pdf
+ (4) Conclusion
+ * MLTutorialSPLC20-WrapUp.pdf
+ 
  
 ## Plan 
 
